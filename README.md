@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akansha Saxena</h1>
 
-<h3 align="center">🚀 .NET Full Stack Developer | Generative AI Explorer</h3>
+<h3 align="center">🚀 Full Stack Backend Developer | Generative AI Explorer</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=600&lines=.NET+Full+Stack+Developer;Building+AI+Powered+Applications;C%23+%7C+.NET+%7C+React+Developer;Exploring+Generative+AI+%26+RAG;Always+Learning+New+Technologies"/>
